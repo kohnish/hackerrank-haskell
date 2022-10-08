@@ -1,0 +1,15 @@
+*.swp
+.clion.source.upload.marker
+.idea
+.cache
+cache
+build
+cmake-build-*
+cscope.out
+cscope.files
+rpmbuild
+tags
+dist-newstyle
+compile_commands.json
+venv
+.gdb_history
